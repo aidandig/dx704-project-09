@@ -1,1 +1,2 @@
 Referenced how to replace all digits (including decimals) with a singular token. https://share.google/aimode/a4UvflOloU7Hij1bY
+Referenced how to normalize log probabilities for naive bayes classifier proble (P4). https://share.google/aimode/SivMZpaxvSdboikzE
